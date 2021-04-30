@@ -6,3 +6,4 @@ def iq_test(numbers):
         f = int(d[i-2])%2
         if b != e and b!=f :
             return i+1
+#made by: Pdxr
