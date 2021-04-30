@@ -5,3 +5,4 @@ def count_bits(n):
     for i in range(len(d)-2):
         j = j + (int(d[2:3+i])%2)
     return j
+#made By: @Pdxr
