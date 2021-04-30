@@ -7,3 +7,4 @@ def to_jaden_case(string):
         else:
             string = string + listed[i+1]
     return string
+#made by: Pdxr
